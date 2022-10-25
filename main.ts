@@ -206,6 +206,3 @@ input.onSound(DetectedSound.Loud, function () {
         basic.clearScreen()
     }
 })
-basic.forever(function () {
-	
-})
